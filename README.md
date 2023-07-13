@@ -1,1 +1,4 @@
-# Consumer Goods ad-hoc Insights for Fetch
+# CPG Brands Ad-hoc Insights for Fetch
+The problem at hand is to analyze and compare various aspects of brand performance based on receipts scanned and user data. The focus is on understanding the recent month's data and comparing it to the previous month's data. Additionally, we aim to determine the average spend and total number of items purchased for receipts with different reward status. Furthermore, we need to identify the brand with the highest spend and the brand with the most transactions among users created within the past 6 months.
+
+Overall, the problem revolves around analyzing brand performance metrics, such as receipts scanned, average spend, total items purchased, and user behavior within specific timeframes. The objective is to provide insights into brand rankings, user spending patterns, and identify key brand performance indicators based on the available data.

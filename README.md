@@ -1,2 +1,1 @@
-# FetchAssignment
-Consumer Goods ad-hoc Insights for Fetch
+# Consumer Goods ad-hoc Insights for Fetch
